@@ -18,4 +18,17 @@ This project involved creating a Flutter mobile application that interacts with 
 The project is hosted in a public Git repository for further review.
 
 
+
+
+**Demo**
+
+
 <img src="https://github.com/johnsargado/flutter_list/assets/28794954/4d55d142-596e-4ee3-a8c7-e948f3255d3c" width="375" height="812"/>
+
+
+
+
+**Tests**
+
+
+![Screenshot 2023-11-08 at 6 05 44 PM](https://github.com/johnsargado/flutter_list/assets/28794954/584cb839-10b2-445b-ba49-4b722e7809c4)
