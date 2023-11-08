@@ -16,3 +16,6 @@ This project involved creating a Flutter mobile application that interacts with 
 **Unit Testing:** Created unit tests to ensure the functionality of non-UI classes.
 
 The project is hosted in a public Git repository for further review.
+
+
+<img src="https://github.com/johnsargado/flutter_list/assets/28794954/4d55d142-596e-4ee3-a8c7-e948f3255d3c" width="375" height="812"/>
