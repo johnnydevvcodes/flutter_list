@@ -1,6 +1,5 @@
 
-**Project Summary: Flutter List Application**
-
+<h2>Project Summary: Flutter List Application</h2>
 
 This project involved creating a Flutter mobile application that interacts with a backend GET endpoint to retrieve a list of users, removes duplicates, and displays the unique user list. Users can tap on individual entries to view detailed user information. Key objectives included implementing MVVM, SOLID, and CLEAN design principles while providing unit testing for non-UI classes.
 
